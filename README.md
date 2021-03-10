@@ -1,0 +1,2 @@
+# Airbnb_Analysis
+In this project, we will work on scraped data about Airbnb listings in two places, Seattle in US and Melbourne in Australia, and focus on data cleaning, exploratory analysis, prediction, classification, and clustering on various features. We aim to apply the Data Analysis knowledge on an unstructured dataset and demonstrate how the analytical skills can help in solving business problems.
